@@ -1,0 +1,2 @@
+# Capstone-Research-Paper
+In this paper, we introduce a smart approach of using the concept of Visible Light Communication (VLC) under the application of V2V communication, commonly known as Intelligent Transport System (ITS).   Intelligent Transportation System (ITS) is an emerging transportation system capable of integrating advanced information and telecommunications network for vehicles, users and infrastructures. This paper suggests solution for vehicle to vehicle (V2V) communication improving traffic behavior and driver safety through accident avoidance. 
